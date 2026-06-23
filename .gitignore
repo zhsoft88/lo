@@ -1,0 +1,15 @@
+# Binaries
+/dist/
+/lo
+/lo.exe
+*.exe
+
+# Temp scripts
+tmp_*.js
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude Code local config
+.claude/
